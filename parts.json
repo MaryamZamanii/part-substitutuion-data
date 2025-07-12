@@ -96,5 +96,17 @@
         "option_2":"",
         "option_3":"120R302",
         "comment":""
+<<<<<<< HEAD
     }
 ]
+=======
+    },
+    {
+        "part_number":"7rl122",
+        "option_1":"7rl162",
+        "option_2":null,
+        "option_3":null,
+        "comment":"use it"
+    }
+]
+>>>>>>> 5cfc0a0d9131317e6a508a830716ae82360f51df
