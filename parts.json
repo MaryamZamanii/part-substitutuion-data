@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< HEAD
         "part_number":"CA2KN22G7",
         "option_1":"(2)CA2SK20G7 AND CA2SK11G7 ",
         "option_2":"",
@@ -97,12 +96,12 @@
         "option_2":"",
         "option_3":"120R302",
         "comment":""
-=======
+    },
+    {
         "part_number":"7rl122",
         "option_1":"7rl162",
         "option_2":null,
         "option_3":null,
         "comment":"use it"
->>>>>>> b24d68b3087dd94e380f8205a43b52e2017c1dec
     }
 ]
